@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://the-perfect-study-center-ry.netlify.app/sitemap.xml
