@@ -5,7 +5,9 @@
 Yahaan milega full set of **objective questions & answers** exam preparation ke liye. 🚀
 
 ## 👔 Director
-- **Dipak Kumar Priyadarshi** 🙌
+- **Dipak Kumar Priyadarshi** 🙌  
+  - *Meaning of Priyadarshi:* "One who looks with kindness / compassionate vision."  
+  - In English: Priyadarshi means **a person with a kind and benevolent outlook**.
 
 ## 🎯 Purpose
 - Class 10 ke students ko help karna objective questions practice karne me.  
