@@ -10,9 +10,9 @@ Yahaan milega full set of **objective questions & answers** exam preparation ke 
   - In English: Priyadarshi means **a person with a kind and benevolent outlook**.
 
 ## 🎯 Purpose
-- Class 10 ke students ko help karna objective questions practice karne me.  
-- Easy access to study material online.  
-- Free learning resource for board exam preparation. 💯
+- To help Class 10 students practice objective questions chapter-wise.  
+- To provide easy access to study material online.  
+- To serve as a free learning resource for board exam preparation. 💯
 
 ## ✨ Features
 - 📖 Chapter-wise objective question bank  
