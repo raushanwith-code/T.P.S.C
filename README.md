@@ -5,7 +5,7 @@
 Yahaan milega full set of **objective questions & answers** exam preparation ke liye. 🚀
 
 ## 👔 Director
-- **Dipak Kumar Peiyadarshi** 🙌
+- **Dipak Kumar Priyadarshi** 🙌
 
 ## 🎯 Purpose
 - Class 10 ke students ko help karna objective questions practice karne me.  
